@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>Hexo test</title>
   
   
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="https://bikong7.github.io/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="https://bikong7.github.io/"/>
   <updated>2020-11-17T14:19:17.088Z</updated>
-  <id>http://example.com/</id>
+  <id>https://bikong7.github.io/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>bikong7</name>
     
   </author>
   
@@ -18,8 +18,8 @@
   
   <entry>
     <title>new article title</title>
-    <link href="http://example.com/2020/11/17/new-article-title/"/>
-    <id>http://example.com/2020/11/17/new-article-title/</id>
+    <link href="https://bikong7.github.io/2020/11/17/new-article-title/"/>
+    <id>https://bikong7.github.io/2020/11/17/new-article-title/</id>
     <published>2020-11-17T14:18:30.000Z</published>
     <updated>2020-11-17T14:19:17.088Z</updated>
     
@@ -41,8 +41,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/2020/11/17/hello-world/"/>
-    <id>http://example.com/2020/11/17/hello-world/</id>
+    <link href="https://bikong7.github.io/2020/11/17/hello-world/"/>
+    <id>https://bikong7.github.io/2020/11/17/hello-world/</id>
     <published>2020-11-17T13:47:25.254Z</published>
     <updated>2020-11-17T13:47:25.254Z</updated>
     

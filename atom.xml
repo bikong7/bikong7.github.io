@@ -3,11 +3,11 @@
   <title>Hexo test</title>
   
   
-  <link href="https://bikong7.github.io/atom.xml" rel="self"/>
+  <link href="http://bikong7.gitee.io/atom.xml" rel="self"/>
   
-  <link href="https://bikong7.github.io/"/>
+  <link href="http://bikong7.gitee.io/"/>
   <updated>2020-11-17T15:21:31.371Z</updated>
-  <id>https://bikong7.github.io/</id>
+  <id>http://bikong7.gitee.io/</id>
   
   <author>
     <name>bikong7</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>hello title</title>
-    <link href="https://bikong7.github.io/2020/11/17/hello-title/"/>
-    <id>https://bikong7.github.io/2020/11/17/hello-title/</id>
+    <link href="http://bikong7.gitee.io/2020/11/17/hello-title/"/>
+    <id>http://bikong7.gitee.io/2020/11/17/hello-title/</id>
     <published>2020-11-17T15:19:01.000Z</published>
     <updated>2020-11-17T15:21:31.371Z</updated>
     
@@ -40,8 +40,8 @@
   
   <entry>
     <title>new article title</title>
-    <link href="https://bikong7.github.io/2020/11/17/new-article-title/"/>
-    <id>https://bikong7.github.io/2020/11/17/new-article-title/</id>
+    <link href="http://bikong7.gitee.io/2020/11/17/new-article-title/"/>
+    <id>http://bikong7.gitee.io/2020/11/17/new-article-title/</id>
     <published>2020-11-17T14:18:30.000Z</published>
     <updated>2020-11-17T14:19:17.088Z</updated>
     
@@ -63,8 +63,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://bikong7.github.io/2020/11/17/hello-world/"/>
-    <id>https://bikong7.github.io/2020/11/17/hello-world/</id>
+    <link href="http://bikong7.gitee.io/2020/11/17/hello-world/"/>
+    <id>http://bikong7.gitee.io/2020/11/17/hello-world/</id>
     <published>2020-11-17T13:47:25.254Z</published>
     <updated>2020-11-17T13:47:25.254Z</updated>
     

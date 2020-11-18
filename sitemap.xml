@@ -2,21 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://bikong7.github.io/2020/11/17/hello-title/</loc>
+    <loc>http://bikong7.gitee.io/2020/11/17/hello-title/</loc>
     
     <lastmod>2020-11-17</lastmod>
     
   </url>
   
   <url>
-    <loc>https://bikong7.github.io/2020/11/17/new-article-title/</loc>
+    <loc>http://bikong7.gitee.io/2020/11/17/new-article-title/</loc>
     
     <lastmod>2020-11-17</lastmod>
     
   </url>
   
   <url>
-    <loc>https://bikong7.github.io/2020/11/17/hello-world/</loc>
+    <loc>http://bikong7.gitee.io/2020/11/17/hello-world/</loc>
     
     <lastmod>2020-11-17</lastmod>
     
@@ -24,8 +24,8 @@
   
 
   <url>
-    <loc>https://bikong7.github.io/</loc>
-    <lastmod>2020-11-17</lastmod>
+    <loc>http://bikong7.gitee.io/</loc>
+    <lastmod>2020-11-18</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
